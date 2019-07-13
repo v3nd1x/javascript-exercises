@@ -51,3 +51,43 @@ When all of the needed tests are passing, push the changes and create a pull req
 `git push origin {branch-name}`
 
 ### Easy (branch name: easy)
+
+# How to learn?
+
+## [w3schools.com](https://www.w3schools.com/js/default.asp)
+
+Main things you will need to understand to complete most of these exercises are:
+
+ - [Variables](https://www.w3schools.com/js/js_variables.asp)
+ - [Data Types](https://www.w3schools.com/js/js_datatypes.asp)
+ - [Functions](https://www.w3schools.com/js/js_functions.asp)
+ - [Objects](https://www.w3schools.com/js/js_objects.asp)
+ - [Strings](https://www.w3schools.com/js/js_strings.asp)
+ - [String Methods](https://www.w3schools.com/js/js_string_methods.asp)
+ - [Arrays](https://www.w3schools.com/js/js_arrays.asp)
+ - [Array Methods](https://www.w3schools.com/js/js_array_methods.asp)
+ - [Array Iteration](https://www.w3schools.com/js/js_array_iteration.asp)
+ - [Conditions](https://www.w3schools.com/js/js_if_else.asp)
+
+## [JavaScript for beginners ~3h video @youtube.com](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+## [The Net Ninja @youtube.com](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+If you are still struggling with the basic concepts, go through the [JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
+Especially helpful for these exercises will be:
+
+ - [If Statements](https://www.youtube.com/watch?v=Lp-Du2fKoug)
+ - [While Loops](https://www.youtube.com/watch?v=PpbFyLTtpWI)
+ - [For Loops](https://www.youtube.com/watch?v=U87UmD-5h4o)
+ - [Loops - Practical Example](https://www.youtube.com/watch?v=eZBTLsv2ktM)
+ - [Functions](https://www.youtube.com/watch?v=KH57lIgwe2g)
+ - [Strings](https://www.youtube.com/watch?v=k8MIbEVXhE0)
+ - [Slice & Split Strings](https://www.youtube.com/watch?v=HEdikBHsMag)
+ - [Arrays](https://www.youtube.com/watch?v=EUnV-fCY0Pc)
+ - [Introduction to Objects](https://www.youtube.com/watch?v=t-evBCCQFzM)
+ - [Creating a new Object](https://www.youtube.com/watch?v=wA5vU_HQfVI)
+
+## [You Dont Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+
+Read this book to better understand basic concepts of programming and JavaScript.
