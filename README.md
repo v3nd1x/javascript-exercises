@@ -26,13 +26,29 @@ Each pull request must be validated to ensure that all tests are passing and the
 
 Visit [*Azure pipelines* @github.com/marketplace](https://github.com/marketplace/azure-pipelines) and complete free plan setup for your repository.
 
-From now on each pull request you make will be built automatically, you can follow the progress at [dev.azure.com](https://dev.azure.com)
-
 When you will have an account created there, you may access *Azure Pipelines*
 
-![Azure pipelines step-1](./docs/azure-pipelines-step-1.png)
+### Setup pipeline for your repository
 
-![Azure pipelines](./docs/azure-pipelines.png)
+1. Create new pipeline
+
+![Create new pipeline](./docs/create-new-pipeline.png)
+
+2. Choose GitHub YAML
+
+![Choose GitHub YAML](./docs/connect-to-github.png)
+
+3. Select repository
+
+![Select repository](./docs/select-repository.png)
+
+4. Review yaml file & run your automated build 
+
+![Review yaml file](./docs/review-yaml.png)
+
+4. Wait till build is successful 
+
+![Wait till build is successful](./docs/successful-build.png)
 
 ## Executing tests
 
@@ -55,6 +71,10 @@ When all of the needed tests are passing, push the changes and create a pull req
 `git push origin {branch-name}`
 
 ### Easy (branch name: easy)
+
+In the [azure-pipelines.yml](./azure-pipelines.yml) which is located in the root of your repository, make sure that third line under *script* is uncommented and contains following command:
+
+`docker run javascript-exercises:latest run test:easy`
 
 # How to learn?
 
