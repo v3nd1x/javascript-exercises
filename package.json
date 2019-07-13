@@ -1,0 +1,12 @@
+{
+  "name": "javascript-exercises",
+  "version": "1.0.0",
+  "author": "codelex",
+  "license": "ISC",
+  "scripts": {
+    "test-easy": "jest exercises/easy"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
