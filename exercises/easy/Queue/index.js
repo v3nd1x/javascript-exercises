@@ -12,8 +12,6 @@
  * q.remove(); // returns 1
  */
 
-class Queue {
-
-}
+class Queue {}
 
 module.exports = Queue;

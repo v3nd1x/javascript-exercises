@@ -12,8 +12,6 @@
  * longestWord("fun&!! time") === "time"
  */
 
-function longestWord(sen) {
-    
-}
+function longestWord(sen) {}
 
 module.exports = longestWord;

@@ -9,8 +9,6 @@
  * vowels('Hello there!') === 4
  */
 
-function vowels(string) {
-
-}
+function vowels(string) {}
 
 module.exports = vowels;

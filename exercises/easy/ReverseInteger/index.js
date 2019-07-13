@@ -12,8 +12,6 @@
  * reverseInt(-90) === -9
  */
 
-function reverse(int) {
-
-}
+function reverse(int) {}
 
 module.exports = reverse;

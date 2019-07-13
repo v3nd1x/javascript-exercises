@@ -4,9 +4,12 @@
   "author": "codelex",
   "license": "ISC",
   "scripts": {
-    "test-easy": "jest exercises/easy"
+    "test-easy": "jest exercises/easy",
+    "prettier": "prettier --write exercises/**/*.js",
+    "prettier:check": "prettier --check exercises/**/*.js"
   },
   "dependencies": {
-    "jest": "^24.8.0"
+    "jest": "^24.8.0",
+    "prettier": "1.18.2"
   }
 }

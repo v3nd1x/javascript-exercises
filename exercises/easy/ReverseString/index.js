@@ -10,8 +10,6 @@
  * reverse('Greetings!') === '!sgniteerG'
  */
 
-function reverse(str) {
-
-}
+function reverse(str) {}
 
 module.exports = reverse;

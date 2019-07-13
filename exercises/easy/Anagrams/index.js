@@ -12,8 +12,6 @@
  * anagrams('Hi there', 'Bye there') === false
  */
 
-function anagrams(stringA, stringB) {
-    
-}
+function anagrams(stringA, stringB) {}
 
 module.exports = anagrams;
