@@ -14,7 +14,7 @@
 
 4. Push changes:
 
-`git push`
+`git push -u origin master`
 
 5. Pull dependencies:
 
@@ -24,9 +24,13 @@
 
 Each pull request must be validated to ensure that all tests are passing and the code is properly formatted.
 
-Visit [Azure pipelines @github.com/marketplace](https://github.com/marketplace/azure-pipelines) and complete free plan setup for your repository.
+Visit [*Azure pipelines* @github.com/marketplace](https://github.com/marketplace/azure-pipelines) and complete free plan setup for your repository.
 
 From now on each pull request you make will be built automatically, you can follow the progress at [dev.azure.com](https://dev.azure.com)
+
+When you will have an account created there, you may access *Azure Pipelines*
+
+![Azure pipelines step-1](./docs/azure-pipelines-step-1.png)
 
 ![Azure pipelines](./docs/azure-pipelines.png)
 
