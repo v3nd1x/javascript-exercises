@@ -1,4 +1,4 @@
-import HighScores from "./index";
+const HighScores = require("./index");
 
 describe("High Scores Test Suite", () => {
   test("List of scores", () => {

@@ -1,4 +1,4 @@
-import steps from "./index";
+const steps = require("./index");
 
 describe("steps()", () => {
   test("zero steps for one", () => {

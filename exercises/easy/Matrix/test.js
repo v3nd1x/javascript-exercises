@@ -1,4 +1,4 @@
-import Matrix from "./index";
+const Matrix = require("./index");
 
 describe("Matrix", () => {
   test("extract row from one number matrix", () => {

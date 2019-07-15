@@ -1,4 +1,4 @@
-import gigasecond from "./index";
+const gigasecond = require("./index");
 
 describe("Gigasecond", () => {
   test("tells a gigasecond anniversary since midnight", () => {

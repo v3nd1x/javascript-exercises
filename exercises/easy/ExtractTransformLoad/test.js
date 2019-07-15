@@ -1,4 +1,4 @@
-import transform from "./index";
+const transform = require("./index");
 
 describe("Transform", () => {
   test("transforms one value", () => {

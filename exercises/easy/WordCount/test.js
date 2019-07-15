@@ -1,4 +1,4 @@
-import Words from "./index";
+const Words = require("./index");
 
 describe("words()", () => {
   const words = new Words();

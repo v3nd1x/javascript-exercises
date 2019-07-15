@@ -1,4 +1,4 @@
-import PhoneNumber from "./index";
+const PhoneNumber = require("./index");
 
 describe("PhoneNumber()", () => {
   test("cleans the number", () => {

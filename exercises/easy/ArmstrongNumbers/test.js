@@ -1,4 +1,4 @@
-import validate from "./index";
+const validate = require("./index");
 
 describe("ArmstrongNumber", () => {
   test("Single digit numbers are Armstrong numbers", () => {

@@ -1,4 +1,4 @@
-import twoFer from "./index";
+const twoFer = require("./index");
 
 describe("twoFer()", () => {
   test("no name given", () => {
